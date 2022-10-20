@@ -3,3 +3,4 @@ SecureApi.sln
 .vs/
 bin/
 obj/
+old_appsettings.txt
